@@ -13,6 +13,7 @@ public class AlCuadradoPresentador implements AlCuadrado.Presentador {
     public void showResultP(String result) {
         if(view!=null){
             view.showResult(result);
+            
         }
     }
 
