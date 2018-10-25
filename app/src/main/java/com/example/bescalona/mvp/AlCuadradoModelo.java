@@ -14,6 +14,5 @@ public class AlCuadradoModelo implements AlCuadrado.Modelo {
        presenter.showResultP(String.valueOf(resultado));
 
 
-
     }
 }
